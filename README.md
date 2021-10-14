@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra quem quiser acompanhar meu dia a dia, me segue no instagram!
+  ### Me sigam no instram e no linkedin!
  
 <div> 
   <a href="https://instagram.com/paul0h_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
