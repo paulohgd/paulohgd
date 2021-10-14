@@ -17,7 +17,7 @@
  
 <div> 
   <a href="https://instagram.com/paul0h_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulohguerra@outlook.com.br"><img src="https://img.shields.io/badge/![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) target="_blank"></a>
+  <a href = "mailto:paulohguerra@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-henrique-a136011a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/paulohgd/paulohgd/blob/output/github-contribution-grid-snake.svg)
