@@ -1,4 +1,4 @@
-## Olá. eu sou o Paulo Henrique 😁
+## Olá, eu sou o Paulo Henrique 😁
 
  <div>
   <a href="https://github.com/paulohgd">
