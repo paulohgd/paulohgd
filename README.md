@@ -1,4 +1,4 @@
-## Olá, eu sou o 😁
+## Olá, eu sou o Paulo 😁
 
  <div>
   <a href="https://github.com/paulohgd">
